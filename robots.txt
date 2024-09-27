@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://easteler.github.io/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/app/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/assets/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/css/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/data/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/includes/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/item/sitemap.easteler.gz
+Sitemap: https://easteler.github.io/src/sitemap.easteler.gz
